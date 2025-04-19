@@ -1,0 +1,3 @@
+# Willkommen zur Mint-Docu :-)
+
+Infos folgen...

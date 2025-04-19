@@ -1,0 +1,68 @@
+site_name: Mint-Docu
+
+nav:
+  - Home:
+    - index.md
+  - Mathe:
+    - mathe/index.md
+    - 11b:
+      - mathe/11b/index.md
+      - Infos:
+        - mathe/11b/infos/index.md
+      - Arbeitsblätter:
+        - mathe/11b/work/index.md
+        - 2025-04-19 Ableitungen: mathe/11b/work/ws-2025-04-19.md
+  - Informatik:
+    - info/index.md
+    - 11b:
+      - info/11b/index.md
+      - Infos:
+        - info/11b/infos/index.md
+      - Arbeitsblätter:
+        - info/11b/work/index.md
+
+theme:
+  name: material
+  logo: img/prostep_integrate.jpg
+  favicon: assets/favicon.ico
+  palette:
+    primary: white
+  features:
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    - content.tooltips
+
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - def_list
+  - tables
+  - abbr
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.blocks.details
+  - pymdownx.blocks.definition
+  - pymdownx.blocks.admonition
+  - pymdownx.blocks.html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
