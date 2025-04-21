@@ -1,5 +1,5 @@
 site_name: Mint-Docu
-
+copyright: Copyright &copy; 2025 Pitz
 nav:
   - Home:
     - index.md
@@ -9,9 +9,14 @@ nav:
       - mathe/11b/index.md
       - Infos:
         - mathe/11b/infos/index.md
+        - Ganzrationale Funktionen: mathe/11b/infos/ganzrat-funktionen.md
+        - Ableitungen ganzr. Funktionen: mathe/11b/infos/grf_ableitungen.md
+        - Nullstellen ganzr. Funktionen: mathe/11b/infos/grf_nullstellen.md
       - Arbeitsblätter:
         - mathe/11b/work/index.md
+        - 2025-04-05 mod-sin: mathe/11b/work/ws-2025-04-05.md
         - 2025-04-19 Ableitungen: mathe/11b/work/ws-2025-04-19.md
+        - 2025-04-26 Nullstellen: mathe/11b/work/ws-2025-04-26.md
   - Informatik:
     - info/index.md
     - 11b:
@@ -23,7 +28,7 @@ nav:
 
 theme:
   name: material
-  logo: img/prostep_integrate.jpg
+  logo: img/pitz-logo.png
   favicon: assets/favicon.ico
   palette:
     primary: white
@@ -62,6 +67,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  generator: false
 
 extra_javascript:
   - javascripts/mathjax.js
