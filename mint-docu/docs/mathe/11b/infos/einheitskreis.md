@@ -1,12 +1,12 @@
-# Einzeitskreis
+# Einheitskreis
 
 ## Definition
 
-Der Einzeitskreis hat einen Radius von 1:
+Der Einheitskreis hat einen Radius von 1:
 
-!!! warning "Definition des Einzeitskreises"
+!!! warning "Definition des Einheitskreises"
 
-    $$Einzeitskreis=\{P|x^2+y^2=1\}$$
+    $$Einheitskreis=\{P|x^2+y^2=1\}$$
 
 ![Winkelfunktionen-Sinus-und-Cosinus-am-Einheitskreis-1024x683.png](Winkelfunktionen-Sinus-und-Cosinus-am-Einheitskreis-1024x683.png)
 
@@ -18,7 +18,7 @@ Die Sinus-Funktion über den Einheitskreis dargestellt:
 
 ## Bogenmaß und Gradmaß
 
-Das Bogenmaß ist über den Einzeitskreis definiert. Der Umfang eine Kreises ist
+Das Bogenmaß ist über den Einheitskreis definiert. Der Umfang eine Kreises ist
 
 $u=2\pi*r$
 
