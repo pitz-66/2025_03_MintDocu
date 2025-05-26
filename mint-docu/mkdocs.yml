@@ -7,6 +7,9 @@ nav:
     - mathe/index.md
     - 11b:
       - mathe/11b/index.md
+      - 02 Exponentialfunktionen:
+        - 01 Quotiententest: mathe/11b/02_exponential_funktionen/info_01_Quotiententest.md
+        - 02 Logarithmus: mathe/11b/02_exponential_funktionen/info_02_Logarithmus.md
       - Infos:
         - mathe/11b/infos/index.md
         - Ganzrationale Funktionen: mathe/11b/infos/ganzrat-funktionen.md

@@ -44,7 +44,7 @@ zerlegen für Produktregel
 
 $u(x) = x \to u'(x) = 1$
 
-$v(x) = cos(2x-1) 
+$v(x) = cos(2x-1)$
 
 anwenden der Kettenregel
 
