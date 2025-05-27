@@ -87,7 +87,7 @@ Wir legen 8000€ zu einem Jahreszins von 5% an. Wie lange dauert es, bis sich d
 
 $k(t) = 8000 \cdot 1,05^t$
 
-$k(T_{2}) = 8000 \cdot 1,05^T_{2} = 2 \cdot 8000$
+$k(T_{2}) = 8000 \cdot 1,05^{T_2} = 2 \cdot 8000$
 
 $\Rightarrow 1,05^{T_{2}} = 2$
 
