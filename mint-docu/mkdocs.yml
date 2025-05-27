@@ -10,6 +10,9 @@ nav:
       - 02 Exponentialfunktionen:
         - 01 Quotiententest: mathe/11b/02_exponential_funktionen/info_01_Quotiententest.md
         - 02 Logarithmus: mathe/11b/02_exponential_funktionen/info_02_Logarithmus.md
+        - 03 Anwendungsaufgaben: mathe/11b/02_exponential_funktionen/info_03_Anwendungsaufgaben.md
+        - 04 Umrechnen der Basis: mathe/11b/02_exponential_funktionen/info_04_Umrechnen_der_Basis.md
+        - 05 Ableitungen: mathe/11b/02_exponential_funktionen/info_05_Ableitungen.md
       - Infos:
         - mathe/11b/infos/index.md
         - Ganzrationale Funktionen: mathe/11b/infos/ganzrat-funktionen.md
