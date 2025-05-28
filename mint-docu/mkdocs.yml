@@ -7,21 +7,24 @@ nav:
     - mathe/index.md
     - 11b:
       - mathe/11b/index.md
+      - 01 Ganzrationale Funktionen:
+        - 01 Ganzrationale Funktionen: mathe/11b/01_ganzrationale_funktionen/info_01_ganzrat-funktionen.md
+        - 02 Ableitungen ganzr. Funktionen: mathe/11b/01_ganzrationale_funktionen/info_02_grf_ableitungen.md
+        - 03 Nullstellen ganzr. Funktionen: mathe/11b/01_ganzrationale_funktionen/info_03_grf_nullstellen.md
+
       - 02 Exponentialfunktionen:
         - 01 Quotiententest: mathe/11b/02_exponential_funktionen/info_01_Quotiententest.md
         - 02 Logarithmus: mathe/11b/02_exponential_funktionen/info_02_Logarithmus.md
         - 03 Anwendungsaufgaben: mathe/11b/02_exponential_funktionen/info_03_Anwendungsaufgaben.md
         - 04 Umrechnen der Basis: mathe/11b/02_exponential_funktionen/info_04_Umrechnen_der_Basis.md
         - 05 Ableitungen: mathe/11b/02_exponential_funktionen/info_05_Ableitungen.md
-      - Infos:
-        - mathe/11b/infos/index.md
-        - Ganzrationale Funktionen: mathe/11b/infos/ganzrat-funktionen.md
-        - Ableitungen ganzr. Funktionen: mathe/11b/infos/grf_ableitungen.md
-        - Nullstellen ganzr. Funktionen: mathe/11b/infos/grf_nullstellen.md
-        - Geom. Funktionen, Einheitskreis: mathe/11b/infos/einheitskreis.md
-        - Geom. Funktionen, Verschieben, Strecken: mathe/11b/infos/geom_funkt_versch.md
-        - Lösungen von gem. Funktionen: mathe/11b/infos/trigonom-gleichungen.md
-        - Geom. Funktionen ableiten: mathe/11b/infos/sin-cos-ableitungen.md
+
+      - 03 Trigonometrische Funktionen:
+        - 01 Einzeitskreis: mathe/11b/03_trigonometrische_funktionen/info_01_einheitskreis.md
+        - 02 Trigon. Funktionen Verschieben, Strecken: mathe/11b/03_trigonometrische_funktionen/info_02_geom_funkt_versch.md
+        - 03 Lösungen von gem. Funktionen: mathe/11b/03_trigonometrische_funktionen/info_03_trigonom-gleichungen.md
+        - 04 Geom. Funktionen ableiten: mathe/11b/03_trigonometrische_funktionen/info_04_sin-cos-ableitungen.md
+
       - Arbeitsblätter:
         - mathe/11b/work/index.md
         - 2025-04-05 mod-sin: mathe/11b/work/ws-2025-04-05.md
@@ -29,6 +32,7 @@ nav:
         - 2025-04-26 Nullstellen: mathe/11b/work/ws-2025-04-26.md
         - 2025-05-04 Geom. Funktionen: mathe/11b/work/ws-2025-05-04.md
         - 2025-05-04 Lösen v. Geom. Funktionen: mathe/11b/work/ws-2025-05-17.md
+
   - Informatik:
     - info/index.md
     - 11b:
