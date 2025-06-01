@@ -6,6 +6,19 @@ Die allgemeine Darstellung der sin-Funktion ist
 
 $f(x)=a \cdot sin(b \cdot (x-d))+e$
 
+??? tip "Liegt die Gleichung nicht in der gewünschten Form vor?"
+
+    Manchmal wird die Funktion auch in der Form
+
+    $f(x)=a \cdot sin(b_2x-d_2))+e$
+
+    dargestellt. Um in die gewünschte Form zu kommen, musst du nur den Faktor
+    $b_2$ herausziehen:
+
+    $b_2 \cdot (x - \frac{d_2}{b_2})$
+
+    sozusagen das Gegenteil von Ausmultiplizieren!
+    
 Dabei ist
 
 ### a = Streckung bzw. Stauchung in Y-Richtung

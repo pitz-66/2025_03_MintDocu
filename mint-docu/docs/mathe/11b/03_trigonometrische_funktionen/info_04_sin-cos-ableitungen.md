@@ -14,7 +14,7 @@ Die Kettenregel wird bei verschachtelten Funktionen angewendet
 
     $$v \equiv innere Funktion$$
 
-    $$f(x)=u(v(x) \to f'(x)=u'(v(x)) \cdot v'(x)$$
+    $$f(x)=u(v(x)) \to f'(x)=u'(v(x)) \cdot v'(x)$$
 
 ### Beispiel
 
