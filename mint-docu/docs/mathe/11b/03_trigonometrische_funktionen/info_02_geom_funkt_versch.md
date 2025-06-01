@@ -40,6 +40,8 @@ Positive Werte verschieben die Funktion nach links, negative Werte nach rechts
 
 Positive Werte verschieben die Funktion nach oben
 
+![Verschiebung.png](Verschiebung.png)
+
 ## Herleitung der Funktion, wenn ein Hoch- und ein Tiefpunkt gegeben ist
 
 Beispiel: Gegeben sind die Punkte
