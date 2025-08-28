@@ -43,6 +43,11 @@ nav:
         - info/11b/infos/index.md
       - Arbeitsblätter:
         - info/11b/work/index.md
+    - Q1:
+      - info/Q1/index.md
+      - kara:
+        - info/Q1/kara/index.md
+        - Einführung in javakara: info/Q1/kara/einfuehrung.md
 
 theme:
   name: material
