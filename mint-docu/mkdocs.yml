@@ -35,6 +35,18 @@ nav:
         - 2025-05-04 Geom. Funktionen: mathe/11b/work/ws-2025-05-04.md
         - 2025-05-04 Lösen v. Geom. Funktionen: mathe/11b/work/ws-2025-05-17.md
 
+    - Q1:
+      - mathe/Q1/index.md
+      - Basics:
+        - mathe/Q1/basics/index.md
+        - Summenformel: mathe/Q1/basics/summenformel.md
+        - Summenformel f. Quadratzahlen: mathe/Q1/basics/summenformel_quadrat.md
+      - Infos:
+          - mathe/Q1/infos/index.md
+          - Streifenmethode: mathe/Q1/infos/streifenmethode.md
+          - Streifenmethode Teil 2: mathe/Q1/infos/streifenmethode2.md
+
+
   - Informatik:
     - info/index.md
     - 11b:
@@ -48,6 +60,9 @@ nav:
       - kara:
         - info/Q1/kara/index.md
         - Einführung in javakara: info/Q1/kara/einfuehrung.md
+      - Java:
+        - info/Q1/java/index.md
+        - Linksammlung: info/Q1/java/linksammlung.md
 
 theme:
   name: material
