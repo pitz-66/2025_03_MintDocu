@@ -10,6 +10,8 @@
 
 ### Die Flächeninhalstsfunktion
 
+[Flächeninhaltsfunktion der Normalparabel](flaecheninhaltsfunktion.md)
+
 ### Stammfunktion und unbestimmtes Integral
 
 ### Das bestimmte Integral

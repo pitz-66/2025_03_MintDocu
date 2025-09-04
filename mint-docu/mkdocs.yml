@@ -41,10 +41,12 @@ nav:
         - mathe/Q1/basics/index.md
         - Summenformel: mathe/Q1/basics/summenformel.md
         - Summenformel f. Quadratzahlen: mathe/Q1/basics/summenformel_quadrat.md
+
       - Infos:
           - mathe/Q1/infos/index.md
           - Streifenmethode: mathe/Q1/infos/streifenmethode.md
           - Streifenmethode Teil 2: mathe/Q1/infos/streifenmethode2.md
+          - Flächeninhaltsfunktion der Normalparabel: mathe/Q1/infos/flaecheninhaltsfunktion.md
 
 
   - Informatik:
