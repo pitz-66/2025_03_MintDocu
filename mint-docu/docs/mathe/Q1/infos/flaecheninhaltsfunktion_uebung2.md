@@ -1,5 +1,7 @@
 # Seite 25, Übung 13: Schutzdeich
 
+![Schutzdeich.png](Schutzdeich.png)
+
 ## Gleichung der Parabel
 
 In die allgemeine Parabelgliechung
@@ -64,7 +66,7 @@ Die Gesamtfläche beträgt also $40,3333m^2$
 
 Durch die Multiplikation mit der Länge von 500m erhalten wir das Volumen
 
-$$ 40,3333m^2 \cdot 500m = 201666,65m^3 $$
+$$ 40,3333m^2 \cdot 500m = 20166,65m^3 $$
 
 Was wiegt ein $m^3$ wenn ein $cm^3$ 1,8g wiegen? Der Faktor wäre dann $100\cdot100\cdot100=1000000$
 
@@ -73,6 +75,6 @@ können also sagen, dass ein $m^3$ Sand 1,8 Tonnen wiegen.
 
 Wir nehmen also unser Volumen mal 1,8 Tonnen und Teilen das dann durch 20 Tonnen pro LKW:
 
-$$\frac{201666,65 \cdot 1,8}{20} = 1814,999$$
+$$\frac{20166,65 \cdot 1,8}{20} = 1814,999$$
 
 Es müssen also 1815 LKW Ladungen transportiert werden - wenn ich mich nicht verrechnet habe :-)
