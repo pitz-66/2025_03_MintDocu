@@ -41,6 +41,7 @@ nav:
         - mathe/Q1/basics/index.md
         - Summenformel: mathe/Q1/basics/summenformel.md
         - Summenformel f. Quadratzahlen: mathe/Q1/basics/summenformel_quadrat.md
+        - Lineare Gleichungssysteme: mathe/Q1/basics/gleichungssysteme.md
 
       - Infos:
           - mathe/Q1/infos/index.md
