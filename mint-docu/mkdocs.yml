@@ -68,6 +68,7 @@ nav:
       - Java:
         - info/Q1/java/index.md
         - Linksammlung: info/Q1/java/linksammlung.md
+        - Hallo World: info/Q1/java/hallo_world.md
 
 theme:
   name: material

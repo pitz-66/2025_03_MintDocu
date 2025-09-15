@@ -2,6 +2,8 @@
 
 ## Was ist ein lineares Gleichungssystem?
 
+
+
 ## Lösung: Gleichsetzen
 
 ## Lösung: Einsetzen

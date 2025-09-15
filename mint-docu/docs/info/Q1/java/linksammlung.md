@@ -8,3 +8,5 @@
 
 [Einführung in die OOP mit Java](https://cpothmann.de/material/einfuehrung-oop/)
 
+[java programmieren-lernen-kurs](https://www.programmierenlernenhq.de/java-programmieren-lernen-kurs/)
+
