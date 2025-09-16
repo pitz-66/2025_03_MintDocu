@@ -42,6 +42,7 @@ nav:
         - Summenformel: mathe/Q1/basics/summenformel.md
         - Summenformel f. Quadratzahlen: mathe/Q1/basics/summenformel_quadrat.md
         - Lineare Gleichungssysteme: mathe/Q1/basics/gleichungssysteme.md
+        - Formen Quadratischer Gleichungen: mathe/Q1/basics/quadratische_gleichungen.md
 
       - Infos:
           - mathe/Q1/infos/index.md
@@ -50,6 +51,7 @@ nav:
           - Flächeninhaltsfunktion der Normalparabel: mathe/Q1/infos/flaecheninhaltsfunktion.md
           - Flächeninhaltsfunktion Beispiel Bahnhof: mathe/Q1/infos/flaecheninhaltsfunktion_uebung1.md
           - Flächeninhaltsfunktion Übung 13: mathe/Q1/infos/flaecheninhaltsfunktion_uebung2.md
+          - Stammfunktion und unbestimmtes Integral: mathe/Q1/infos/stammfunktion.md
 
 
   - Informatik:
