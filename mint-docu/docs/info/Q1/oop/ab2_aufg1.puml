@@ -1,0 +1,31 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Arznei {
+    - name: String
+    - anzahl: int
+    - preis: double
+    - verschreibungspflichtig: boolean
+    + Arznei(name: String, anzahl: int, preis: double, verschreibungspflichtig: boolean)
+    + aendereAnzahlUm(menge: int): void
+    + getName(): String
+    + getAnzahl(): int
+    + getPreis(): double
+    + getVerschreibungspflichtig(): boolean
+    + setAnzahl(anzahl: int): void
+    + setPreis(preis: double): void
+}
+
+class Arneimittelverwaltung {
+    - arzneien: Arznei[100]
+    + ausgeben(Arznei: arznei): void
+    + auffuellen(Arznei: arznei, menge: int): void
+    + aufnehmen(Arznei: arznei): void
+    + löschen(Arznei: arznei): void
+}
+
+Arneimittelverwaltung o-- Arznei
+
+
+
+@enduml

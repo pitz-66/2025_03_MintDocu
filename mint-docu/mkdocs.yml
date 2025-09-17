@@ -75,6 +75,10 @@ nav:
         - info/Q1/oop/index.md
         - Was ist OOP?: info/Q1/oop/was_ist_oop.md
         - Was ist OOP - Beispiel: info/Q1/oop/was_ist_oop_beispiel.md
+        - AB 1 - Aufg. 2 Baum: info/Q1/oop/ab1_2_aufg2.md
+        - AB 1 - Aufg. 5 Bücher: info/Q1/oop/ab1_2_aufg5.md
+        - AB 2 - Aufg. 1 Arzneiverwaltung: info/Q1/oop/ab2_aufg1.md
+
 
 theme:
   name: material
@@ -117,6 +121,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+ - plantuml-colocator
 
 extra:
   generator: false
