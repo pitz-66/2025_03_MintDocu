@@ -71,6 +71,10 @@ nav:
         - info/Q1/java/index.md
         - Linksammlung: info/Q1/java/linksammlung.md
         - Hallo World: info/Q1/java/hallo_world.md
+      - Objektorientierte Programmierung:
+        - info/Q1/oop/index.md
+        - Was ist OOP?: info/Q1/oop/was_ist_oop.md
+        - Was ist OOP - Beispiel: info/Q1/oop/was_ist_oop_beispiel.md
 
 theme:
   name: material
