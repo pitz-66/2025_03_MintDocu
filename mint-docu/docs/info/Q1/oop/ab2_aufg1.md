@@ -16,6 +16,7 @@ Sortiment gelöscht, entsteht eine Lücke im Feld, die zu einem späteren Zeitpu
 werden kann.
 
 1) Modellieren Sie die Klassen Arzneiverwaltung und Arznei mit allen Attributen und Methoden inklusive Parametern als UML-Klassendiagramm.
+
 2) Erläutern Sie die von Ihnen ausgewählte Klassenbeziehung.
 
 ```puml
