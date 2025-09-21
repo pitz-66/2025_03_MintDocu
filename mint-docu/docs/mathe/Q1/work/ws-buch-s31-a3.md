@@ -49,7 +49,7 @@ Berechnen Sie jeweils eine Stammfunktion F von f,
     
     Faktor -1 bleibt, Ableitung von -cos(x) ist sin(x), also ist die Stammfunktion von sin(x) -cos(x)
     
-    $F(x) = -1 \cdot -cos(x) =cos(x)$
+    $F(x) = -1 \cdot -cos(x) = cos(x)$
 
 #### f) $f(x) = e^{\frac{1}{2}x}$
 
