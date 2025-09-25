@@ -3,6 +3,8 @@
 Gesucht ist der Inhalt der Fläche, welche vom Graphen von $f(x)=-cos(x)$ und der x-Achse über
 dem Interval [0;4] eingeschlossen wird.
 
+![Seite49Uebung1.png](Seite49Uebung1.png)
+
 ## Nullstelle der Funktion
 
 $0=-cos(x)$
