@@ -23,6 +23,8 @@ Berechne die Fläche unter der Funktion $f(x) = x^2$ im Intervall $[0, 2]$
 - **Exakte Fläche mit Grenzwert:**  
   $\int_0^2 x^2dx = \left[\frac{1}{3}x^3\right]_0^2 = \frac{8}{3} \approx 2{,}67$
 
+
+
 ---
 
 ### 📊 **Grafische Darstellung:**
