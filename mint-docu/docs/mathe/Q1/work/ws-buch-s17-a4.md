@@ -48,4 +48,42 @@ $\lim_{n}^\infty O_n= 2$
 
 ### c) $f(x)=x^2$ im Intervall $I=[0;10]$
 
+$U_n=\frac{10}{n}\cdot\left[ 0+(\frac{10}{n})^2+(\frac{2\cdot10}{n})^2+...+(\frac{(n-1)\cdot10}{n})^2 \right]$
+
+$U_n=\frac{10}{n}\cdot\frac{100}{n^2}\cdot\left[ 0^2+1^2+2^2+...+(n-1)^2 \right]$
+
+$U_n=\frac{1000}{n^3}\cdot\left[ 0^2+1^2+2^2+...+(n-1)^2 \right]$
+
+$U_n=\frac{1000}{n^3}\cdot\left[ \frac{(n-1)n(2n-1)}{6} \right]$
+
+$U_n=\frac{1000}{n^3}\cdot\left[ \frac{2n^3-3n^2+n}{6} \right]$
+
+$U_n=\frac{1000}{6}\cdot\left[ \frac{2n^3}{n^3}-\frac{3n^2}{n^3}+\frac{n}{n^3} \right]$
+
+$U_n=\frac{1000}{6}\cdot\left[ 2-\frac{3}{n}+\frac{1}{n^2} \right]$
+
+$\lim_{n}^\infty U_n= \frac{1000}{6}\cdot 2 = \frac{1000}{3}$
+
 ### c) $f(x)=2x^2+x$ im Intervall $I=[0;1]$
+
+$O_n=\frac{1}{n}\cdot\left[ 2(\frac{1}{n})^2+\frac{1}{n} + 2(\frac{2}{n})^2+\frac{2}{n} + ... + 2(\frac{n}{n})^2+\frac{n}{n} \right]$
+
+$O_n=\frac{1}{n}\cdot\left[ \frac{2}{n^2} + \frac{1}{n} + \frac{8}{n^2} + \frac{2}{n} + ... + 2 + 1 \right]$
+
+$O_n=\frac{1}{n}\cdot\left[ \frac{2}{n^2}(1^2+2^2+...+n^2) + \frac{1}{n}(1+2+...+n) \right]$
+
+$O_n=\frac{1}{n}\cdot\left[ \frac{2}{n^2}\cdot\frac{n(n+1)(2n+1)}{6} + \frac{1}{n}\cdot\frac{n(n+1)}{2} \right]$
+
+$O_n=\frac{1}{n}\cdot\left[ \frac{2(2n^3+3n^2+n)}{6n^2} + \frac{n(n+1)}{2} \right]$
+
+$O_n=\frac{1}{n}\cdot\left[ \frac{2(2n^3+3n^2+n)}{6n^2} + \frac{3n(n+1)}{6} \right]$
+
+$O_n=\frac{1}{n}\cdot\left[ \frac{4n^3+6n^2+2n + 3n^3+3n^2}{6n^2} \right]$
+
+$O_n=\frac{1}{n}\cdot\left[ \frac{7n^3+9n^2+2n}{6n^2} \right]$
+
+$O_n=\frac{7n^3+9n^2+2n}{6n^3} = \frac{7n^3}{6n^3} + \frac{9n^2}{6n^3} + \frac{2n}{6n^3}$
+
+$O_n=\frac{7}{6} + \frac{3}{2n} + \frac{1}{3n^2}$
+
+$\lim_{n}^\infty O_n= \frac{7}{6}$
