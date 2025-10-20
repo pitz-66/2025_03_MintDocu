@@ -29,11 +29,11 @@ $f(x)=x^3-x$ im 4. Quadranten
 
 ??? success "Lösung"
 
-    Die Funktion hat drei Nullstellen: -1, 0 und 1. Die gesuchte Fläche liegt im Intervall [-1; 0] 
+    Die Funktion hat drei Nullstellen: -1, 0 und 1. Die gesuchte Fläche liegt im Intervall [0; 1] 
 
-    $\int_{-1}^0 x^3-x = \left|\frac{1}{4}x^4-\frac{1}{2}x^2\right|_{-1}^{0}$
+    $\int_{0}^{1} x^3-x = \left|\frac{1}{4}x^4-\frac{1}{2}x^2\right|_{0}^{1}$
 
-    $= 0 - \left(\frac{1}{4}-\frac{1}{2}\right)=\frac{1}{4}$
+    $= \left(\frac{1}{4}-\frac{1}{2}\right)-0=-\frac{1}{4}$
 
 ## d)
 
@@ -52,13 +52,13 @@ $f(x)=x^3-x$ im Intervall [0;2]
     
     $\int_{1}^2 x^3-x = \left|\frac{1}{4}x^4-\frac{1}{2}x^2\right|_{1}^{2}$
     
-    $= \left(\frac{1}{4}16-\frac{1}{2}4\right)-\left(-\frac{1}{4}\right)=\frac{1}{4}$
+    $= \left(\frac{1}{4}16-\frac{1}{2}4\right)-\left(-\frac{1}{4}\right)$
     
-    $= 4-2+\frac{1}{4}=\frac{9}{4}$
+    $= 4-2+\frac{1}{4}=2\frac{1}{4}$
     
     Da wir von der ersten Fläche den Betrag benötigen ergibt sich für die Gesamtfläche
     
-    $A = \frac{9}{4} + \left|-\frac{1}{4}\right|=\frac{10}{4}=\frac{5}{2}$
+    $A = 2 \frac{1}{4}+ \left|-\frac{1}{4}\right|=2 \frac{1}{2}$
 
 ## e)
 
