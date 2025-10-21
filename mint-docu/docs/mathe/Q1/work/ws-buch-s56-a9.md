@@ -17,7 +17,7 @@ $a+b+c=0$
 
 ...dazu müssen wir nur die erste Ableitung
 
-$f'(x)2ax+b$
+$f'(x)=2ax+b$
 
 der allgem. Funktion für x=0 Null setzen, daraus folgt direkt
 

@@ -80,9 +80,9 @@ $O_n=\frac{1}{n}\cdot\left[ \frac{2}{n^2}(1^2+2^2+...+n^2) + \frac{1}{n}(1+2+...
 
 $O_n=\frac{1}{n}\cdot\left[ \frac{2}{n^2}\cdot\frac{n(n+1)(2n+1)}{6} + \frac{1}{n}\cdot\frac{n(n+1)}{2} \right]$
 
-$O_n=\frac{1}{n}\cdot\left[ \frac{2(2n^3+3n^2+n)}{6n^2} + \frac{n(n+1)}{2} \right]$
+$O_n=\frac{1}{n}\cdot\left[ \frac{2(2n^3+3n^2+n)}{6n^2} + \frac{n(n+1)}{2n} \right]$
 
-$O_n=\frac{1}{n}\cdot\left[ \frac{2(2n^3+3n^2+n)}{6n^2} + \frac{3n(n+1)}{6} \right]$
+$O_n=\frac{1}{n}\cdot\left[ \frac{2(2n^3+3n^2+n)}{6n^2} + \frac{3n^2(n+1)}{6n^2} \right]$
 
 $O_n=\frac{1}{n}\cdot\left[ \frac{4n^3+6n^2+2n + 3n^3+3n^2}{6n^2} \right]$
 
