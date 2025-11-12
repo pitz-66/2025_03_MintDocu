@@ -69,6 +69,11 @@ nav:
 
   - Informatik:
     - info/index.md
+    - Minecraft:
+      - info/minecraft/index.md
+      - Setup: info/minecraft/setup.md
+      - Beispiel Teil 1: info/minecraft/example_project_1.md
+      - Beispiel Teil 2: info/minecraft/example_project_2.md
     - 11b:
       - info/11b/index.md
       - Infos:
