@@ -39,6 +39,7 @@ nav:
       - mathe/Q1/index.md
       - Basics:
         - mathe/Q1/basics/index.md
+        - Basic Mathe: mathe/Q1/basics/basics.md
         - Summenformel: mathe/Q1/basics/summenformel.md
         - Summenformel f. Quadratzahlen: mathe/Q1/basics/summenformel_quadrat.md
         - Lineare Gleichungssysteme: mathe/Q1/basics/gleichungssysteme.md
@@ -64,6 +65,7 @@ nav:
           - Buch S. 55 Übung 8: mathe/Q1/work/ws-buch-s55-a8.md
           - Buch S. 56 Übung 9: mathe/Q1/work/ws-buch-s56-a9.md
           - Buch S. 93 Übung 11: mathe/Q1/work/ws-buch-s93-a11.md
+          - Buch S. 127 Übung 16: mathe/Q1/work/ws-buch-s127-a16.md
           - KI gen. Aufgaben 1: mathe/Q1/work/ws-ki-test.md
           - KI gen. Aufgaben 2: mathe/Q1/work/ws-ki-test2.md
 
@@ -101,6 +103,7 @@ nav:
       - Allgemeine Themen:
         - info/Q1/topics/index.md
         - Suchalgorithmen: info/Q1/topics/suchen.md
+        - Sortieralgorithmen: info/Q1/topics/sortieren.md
 
 
 theme:
