@@ -113,6 +113,9 @@ nav:
           - Bubblesort: info/Q1/topics/sortieren/sortieren_bubblesort.md
           - Selectionsort: info/Q1/topics/sortieren/sortieren_selectionsort.md
           - insertionsort: info/Q1/topics/sortieren/sortieren_insertionsort.md
+      - Aufgaben:
+          - info/Q1/aufgaben/index.md
+          - Arzneimittelverwaltung: info/Q1/aufgaben/arzneimittelverwaltung.md
 
 
 theme:
