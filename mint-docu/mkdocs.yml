@@ -116,6 +116,7 @@ nav:
       - Aufgaben:
           - info/Q1/aufgaben/index.md
           - Arzneimittelverwaltung: info/Q1/aufgaben/arzneimittelverwaltung.md
+          - Nachtflugverbot: info/Q1/aufgaben/nachtflugverbot.md
 
 
 theme:
