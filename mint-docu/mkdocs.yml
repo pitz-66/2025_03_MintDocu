@@ -72,6 +72,17 @@ nav:
           - KI gen. Aufgaben 1: mathe/Q1/work/ws-ki-test.md
           - KI gen. Aufgaben 2: mathe/Q1/work/ws-ki-test2.md
 
+    - Q2:
+      - mathe/Q2/index.md
+      - Infos:
+        - mathe/Q2/infos/index.md
+        - Gaußscher Alg. f. LGS: mathe/Q2/infos/gausscher_alg_lgs.md
+      - Arbeitsblätter:
+        - mathe/Q2/work/index.md
+        - Buch S. 19 Aufgabe 2a: mathe/Q2/work/ws-buch-s19-a2a.md
+        - Buch S. 19 Aufgabe 2b: mathe/Q2/work/ws-buch-s19-a2b.md
+        - Buch S. 19 Aufgabe 2c: mathe/Q2/work/ws-buch-s19-a2c.md
+
 
   - Informatik:
     - info/index.md
