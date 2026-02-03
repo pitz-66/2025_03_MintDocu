@@ -77,12 +77,16 @@ nav:
       - Infos:
         - mathe/Q2/infos/index.md
         - Gaußscher Alg. f. LGS: mathe/Q2/infos/gausscher_alg_lgs.md
+        - Nicht Eindeutige LGS: mathe/Q2/infos/nicht_eindeutig_loesbare_lgs.md
+        - Nicht Lösbare LGS: mathe/Q2/infos/nicht_loesbare_lgs.md
       - Arbeitsblätter:
         - mathe/Q2/work/index.md
         - Buch S. 19 Aufgabe 2a: mathe/Q2/work/ws-buch-s19-a2a.md
         - Buch S. 19 Aufgabe 2b: mathe/Q2/work/ws-buch-s19-a2b.md
         - Buch S. 19 Aufgabe 2c: mathe/Q2/work/ws-buch-s19-a2c.md
-
+        - Buch S. 21 Aufgabe 1a: mathe/Q2/work/ws-buch-s21-a1a.md
+        - Buch S. 21 Aufgabe 1b: mathe/Q2/work/ws-buch-s21-a1b.md
+        - Buch S. 21 Aufgabe 1c: mathe/Q2/work/ws-buch-s21-a1c.md
 
   - Informatik:
     - info/index.md
