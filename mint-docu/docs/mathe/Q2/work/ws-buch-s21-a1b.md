@@ -38,7 +38,11 @@ $(2,\;8,\;-5,\;6) - (2,\; \tfrac{10}{3},\;-\tfrac{4}{3},\;\tfrac{20}{3})$
 
 Ergebnis:
 
-$Z_2 = \left(0,\;\tfrac{14}{3},\;-\tfrac{11}{3},\; -\tfrac{2}{3}\right)$
+$$
+Z_2= \left[\begin{array}{ccc|c}
+0 & \tfrac{14}{3} & -\tfrac{11}{3} & -\tfrac{2}{3}
+\end{array}\right]
+$$
 
 ### Z₃ := Z₃ – (4/3)·Z₁
 
@@ -46,7 +50,11 @@ $(4,\;2,\;1,\;8) - (4,\;\tfrac{20}{3},\;-\tfrac{8}{3},\;\tfrac{40}{3})$
 
 Ergebnis:
 
-$Z_3 = \left(0,\; -\tfrac{14}{3},\;\tfrac{11}{3},\; -\tfrac{16}{3}\right)$
+$$
+Z_3=\left[\begin{array}{ccc|c}
+0 & -\tfrac{14}{3} & \tfrac{11}{3} & -\tfrac{16}{3}
+\end{array}\right]
+$$
 
 ## ✔️ Neue Matrix
 
@@ -73,7 +81,9 @@ $$
 Ergebnis:
 
 $$
-Z_3 = (0,\;0,\;0,\; -6)
+Z_3= \left[\begin{array}{ccc|c}
+0 & 0 & 0 & -6 \\
+\end{array}\right]
 $$
 
 ## ❌ 4. Nullzeile mit Nicht‑Null rechts → Widerspruch
