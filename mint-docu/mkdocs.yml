@@ -156,6 +156,20 @@ nav:
           - Arzneimittelverwaltung: info/Q1/aufgaben/arzneimittelverwaltung.md
           - Nachtflugverbot: info/Q1/aufgaben/nachtflugverbot.md
 
+  - Spielkram:
+    - KI-Infos:
+      - 001 KI-Infos: spielkram/ki_infos/ki_info_1.md
+      - 002 KI-Infos: spielkram/ki_infos/ki_info_2.md
+      - 003 KI-Infos: spielkram/ki_infos/ki_info_3.md
+      - 004 KI-Infos: spielkram/ki_infos/ki_info_4.md
+      - 005 KI-Infos: spielkram/ki_infos/ki_info_5.md
+      - 006 KI-Infos: spielkram/ki_infos/ki_info_6.md
+      - 007 KI-Infos: spielkram/ki_infos/ki_info_7.md
+      - 008 KI-Infos: spielkram/ki_infos/ki_info_8.md
+      - 009 KI-Infos: spielkram/ki_infos/ki_info_9.md
+
+
+
 
 theme:
   name: material
