@@ -109,7 +109,13 @@ nav:
         - Buch S. 52 Aufgabe 8: mathe/Q2/work2/ws-buch-s52-a8.md
         - Buch S. 55 Aufgabe 15: mathe/Q2/work2/ws-buch-s55-a15.md
         - Buch S. 57 Aufgabe 19: mathe/Q2/work2/ws-buch-s57-a19.md
+        - Buch S. 57 Aufgabe 19 - claude: mathe/Q2/work2/ws-buch-s57-a19-claude.md
         - Buch S. 64 Aufgabe 8: mathe/Q2/work2/ws-buch-s64-a8.md
+      - Arbeistblätter III:
+        - mathe/Q2/work3/index.md
+        - Buch S. 84 Aufgabe 1: mathe/Q2/work3/ws-buch-s84-a1.md
+        - Buch S. 87 Aufgabe 12: mathe/Q2/work3/ws-buch-s87-a12.md
+
 
   - Informatik:
     - info/index.md
