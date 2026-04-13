@@ -115,6 +115,8 @@ nav:
         - mathe/Q2/work3/index.md
         - Buch S. 84 Aufgabe 1: mathe/Q2/work3/ws-buch-s84-a1.md
         - Buch S. 87 Aufgabe 12: mathe/Q2/work3/ws-buch-s87-a12.md
+        - Buch S. 91 Aufgabe 2: mathe/Q2/work3/ws-buch-s91-a2.md
+        - Buch S. 91 Aufgabe 3: mathe/Q2/work3/ws-buch-s91-a3.md
 
 
   - Informatik:
@@ -162,17 +164,21 @@ nav:
           - Arzneimittelverwaltung: info/Q1/aufgaben/arzneimittelverwaltung.md
           - Nachtflugverbot: info/Q1/aufgaben/nachtflugverbot.md
 
-  - Spielkram:
-    - KI-Infos:
-      - 001 KI-Infos: spielkram/ki_infos/ki_info_1.md
-      - 002 KI-Infos: spielkram/ki_infos/ki_info_2.md
-      - 003 KI-Infos: spielkram/ki_infos/ki_info_3.md
-      - 004 KI-Infos: spielkram/ki_infos/ki_info_4.md
-      - 005 KI-Infos: spielkram/ki_infos/ki_info_5.md
-      - 006 KI-Infos: spielkram/ki_infos/ki_info_6.md
-      - 007 KI-Infos: spielkram/ki_infos/ki_info_7.md
-      - 008 KI-Infos: spielkram/ki_infos/ki_info_8.md
-      - 009 KI-Infos: spielkram/ki_infos/ki_info_9.md
+    - Q2:
+      - info/Q2/index.md
+      - info/Q2/aufgaben.md
+
+  #- Spielkram:
+  #  - KI-Infos:
+  #    - 001 KI-Infos: spielkram/ki_infos/ki_info_1.md
+  #    - 002 KI-Infos: spielkram/ki_infos/ki_info_2.md
+  #    - 003 KI-Infos: spielkram/ki_infos/ki_info_3.md
+  #    - 004 KI-Infos: spielkram/ki_infos/ki_info_4.md
+  #    - 005 KI-Infos: spielkram/ki_infos/ki_info_5.md
+  #    - 006 KI-Infos: spielkram/ki_infos/ki_info_6.md
+  #    - 007 KI-Infos: spielkram/ki_infos/ki_info_7.md
+  #    - 008 KI-Infos: spielkram/ki_infos/ki_info_8.md
+  #    - 009 KI-Infos: spielkram/ki_infos/ki_info_9.md
 
 
 
