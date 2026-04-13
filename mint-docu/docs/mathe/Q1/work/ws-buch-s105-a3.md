@@ -10,7 +10,7 @@ Die Fläche unter der Funktion $f(x)=2$ ist
 
 $F_1=\int_1^{\infty} 2dx$
 
-$ = \lim\limits_{k \to \infty} \int_1^k 2dx$
+$= \lim\limits_{k \to \infty} \int_1^k 2dx$
 
 $=\lim\limits_{k \to \infty} \left[ 2x \right]_1^k$
 
