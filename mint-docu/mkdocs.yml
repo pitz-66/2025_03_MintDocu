@@ -171,6 +171,10 @@ nav:
       - info/Q2/index.md
       - info/Q2/aufgaben.md
 
+  - Powi:
+      - powi 1: kram/PoWi_01.md
+      - powi 2: kram/PoWi_02.md
+
   #- Spielkram:
   #  - KI-Infos:
   #    - 001 KI-Infos: spielkram/ki_infos/ki_info_1.md
